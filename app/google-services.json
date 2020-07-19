@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218565177092",
+    "firebase_url": "https://rfacial-741e9.firebaseio.com",
+    "project_id": "rfacial-741e9",
+    "storage_bucket": "rfacial-741e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218565177092:android:41de7df462cd784f7d2a51",
+        "android_client_info": {
+          "package_name": "com.maestria.rfacial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218565177092-2ctd745o7t750b24q0hff59rjl0r81cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0GXkgIP9e4ju8DHe5nTL5k5HSpkZPcTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218565177092-2ctd745o7t750b24q0hff59rjl0r81cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
