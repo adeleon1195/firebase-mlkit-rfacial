@@ -1,5 +1,5 @@
-ML Kit for Firebase Quickstart
-==============================
+Reconocimiento Facial con ML Kit Firebase
+=============================================
 
 The ML Kit for Firebase Android Quickstart app demonstrates how to use the
 various features of ML Kit to add machine learning to your application.
